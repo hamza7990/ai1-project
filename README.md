@@ -16,11 +16,6 @@ This project models a real-world earthquake scenario where:
 The system uses AI techniques to make optimal decisions in real time to **maximize the number of saved lives**.
 
 ---
-![Uploading image.png…]()
-![Uploading image.png…]()
-
-
-
 ## 🧠 AI Techniques Used
 
 ### 1. A* Search Algorithm
