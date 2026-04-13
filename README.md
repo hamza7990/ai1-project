@@ -327,11 +327,11 @@ This project demonstrates how classical AI techniques can be applied to solve:
 
 ---
 
-## 👨‍💻 Creative Minds
+## 🎨 Creative Team
 
-**Hamza ibrahim **
-**hanan waled **
-**khaled gamal **
+- Hamza Ibrahim  
+- Hanan Waled  
+- Khaled Gamal  
 
 Computer Science Student | AI Enthusiast
 
