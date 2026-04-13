@@ -330,7 +330,7 @@ This project demonstrates how classical AI techniques can be applied to solve:
 ## 🎨 Creative Team
 
 - Hamza Ibrahim  
-- Hanan Waled  
+- Hanan Waleثd  
 - Khaled Gamal  
 
 Computer Science Student | AI Enthusiast
